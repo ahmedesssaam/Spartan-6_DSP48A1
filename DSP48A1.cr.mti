@@ -1,0 +1,36 @@
+{C:/Users/Ahmed/Desktop/Digital Design/Project 1/test_DSP.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Ahmed/Desktop/Digital Design/Project 1/test_DSP.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module test_DSP48A1
+
+Top level modules:
+	test_DSP48A1
+
+} {} {}} {C:/Users/Ahmed/Desktop/Digital Design/Project 1/D_mux_ASYNC.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Ahmed/Desktop/Digital Design/Project 1/D_mux_ASYNC.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module D_mux_ASYNC
+
+Top level modules:
+	D_mux_ASYNC
+
+} {} {}} {C:/Users/Ahmed/Desktop/Digital Design/Project 1/test_D_mux.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Ahmed/Desktop/Digital Design/Project 1/test_D_mux.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module test_D_mux
+
+Top level modules:
+	test_D_mux
+
+} {} {}} {C:/Users/Ahmed/Desktop/Digital Design/Project 1/DSP48A1.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Ahmed/Desktop/Digital Design/Project 1/DSP48A1.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DSP48A1
+
+Top level modules:
+	DSP48A1
+
+} {} {}} {C:/Users/Ahmed/Desktop/Digital Design/Project 1/D_mux_SYNC.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Ahmed/Desktop/Digital Design/Project 1/D_mux_SYNC.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module D_mux_SYNC
+
+Top level modules:
+	D_mux_SYNC
+
+} {} {}}
